@@ -4,7 +4,7 @@
 # Quantity: ghost-gluon vertex dressing function DAcbc
 # Syntax: S0, rho, eta, DAcbc
 # Cutoff in GeV^2, renormalization constant Z1: 882208., 1
-# Lowest/highest points in S0 (extrapolated beyond that): 0.000000882208/88220.8
+# Lowest/highest calculated points in S0 (extrapolated beyond that): 0.000000882208/88220.8
 # alpha(mu)=0.05
 #
 8.822076928240767e-7	0.0001	0.	1.0000168040008437

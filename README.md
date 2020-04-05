@@ -13,12 +13,14 @@ Data for more decoupling solutions is available upon request.
 Correlation function | Figure | Data file
 -------------------- | ------ | ---------
 Ghost                | 9      | ghost.dat
-Gluon 				 | 8	  | gluon.dat
-Ghost-gluon vertex   | 11     | ghost-gluon.dat
-Three-gluon vertex   | 12     | three-gluon.dat
-Four-gluon vertex    | 13     | four-gluon_SD.dat
+Gluon 				       | 8  	  | gluon.dat
+Ghost-gluon vertex   | 11     | ghost-gluon2.dat
+Three-gluon vertex   | 12     | three-gluon2.dat
+Four-gluon vertex    | 13     | four-gluon2_SD.dat
 
-Note: For the plots in [[1]](#YM), the dressing functions were rescaled to compare with other results.
+### Notes
+* For the plots in [[1]](#YM), the dressing functions were rescaled to compare with other results.
+* For the vertices two datasets exist: One contains the interpolation points (in case one wants to use the same interpolation as described in [[1]](#YM)), the other contains interpolated data.
 
 ## Reference
 Data is published in [[1]](#YM).

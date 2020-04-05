@@ -3,9 +3,8 @@
 # Rescaling factor from internal to physical units: 1.19323
 # Quantity: ghost-gluon vertex dressing function DAcbc
 # Syntax: S0, rho, eta, DAcbc
-# Cutoff in GeV^2, renormalization constant Z1:           6
-1.19323 10, 1
-# Lowest/highest points in S0 (extrapolated beyond that): 0.00000119323/119323.
+# Cutoff in GeV^2, renormalization constant Z1: 1193227., 1
+# Lowest/highest calculated points in S0 (extrapolated beyond that): 0.00000119323/119323.
 # alpha(mu)=0.05
 #
 1.1932269509491144e-6	0.0001	0.	1.0000999350485074

@@ -1,14 +1,14 @@
 # Internal run number: twoLoop 1918
 # All dimensionful quantities in GeV
 # Rescaling factor from internal to physical units: 0.971861
-# Quantity: gluon dressing function Z
+# Quantity: interpolated gluon dressing function Z
 # Syntax: p^2 [GeV^2], Z
 # Cutoff in GeV^2, renormalization constant Z3: 971861., 1.23481
 # Renormalization point 1: 9718.61
-# Renormalization value Z at point 1: 0.903593
+# Renormalization value Z at point 1: 1.
 # Renormalization point 2: 0.000000971861
-# Renormalization value D at point 2: 11.1571
-# Lowest/highest points (extrapolated beyond that): 0.000000971861/9718.61
+# Renormalization value D at point 2: 12.3474
+# Lowest/highest calculated points (extrapolated beyond that): 0.000000971861/9718.61
 # alpha(mu)=0.05
 #
 9.718614357484132e-15	1.2e-13

@@ -3,9 +3,8 @@
 # Rescaling factor from internal to physical units: 1.51628
 # Quantity: three-gluon vertex dressing function CAAA
 # Syntax: S0, rho, eta, CAAA
-# Cutoff in GeV^2, renormalization constant Z1:           6
-1.51628 10, 1.50338
-# Lowest/highest points in S0 (extrapolated beyond that): 0.00000151628/151628.
+# Cutoff in GeV^2, renormalization constant Z1: 1516281., 1.50338
+# Lowest/highest calculated points in S0 (extrapolated beyond that): 0.00000151628/151628.
 # alpha(mu)=0.05
 #
 1.516281011402537e-6	0.0001	0.	-203.487120167851543

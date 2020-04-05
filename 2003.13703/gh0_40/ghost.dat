@@ -1,13 +1,12 @@
 # Internal run number: twoLoop 1948
 # All dimensionful quantities in GeV
 # Rescaling factor from internal to physical units: 1.51628
-# Quantity: ghost dressing function G
+# Quantity: interpolated ghost dressing function G
 # Syntax: p^2 [GeV^2], G
-# Cutoff in GeV^2, renormalization constant Zt3:           6
-1.51628 10, 0.814044
+# Cutoff in GeV^2, renormalization constant Zt3: 1516281., 0.814044
 # Renormalization point: 0.00000151628
-# Renormalization value: 30.3239
-# Lowest/highest points (extrapolated beyond that): 0.00000151628/15162.8
+# Renormalization value: 40.000000000000000
+# Lowest/highest calculated points (extrapolated beyond that): 0.00000151628/15162.8
 # alpha(mu)=0.05
 #
 1.516281011402537e-14	40.

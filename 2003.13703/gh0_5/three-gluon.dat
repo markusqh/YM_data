@@ -4,7 +4,7 @@
 # Quantity: three-gluon vertex dressing function CAAA
 # Syntax: S0, rho, eta, CAAA
 # Cutoff in GeV^2, renormalization constant Z1: 822751., 1.56189
-# Lowest/highest points in S0 (extrapolated beyond that): 0.000000822751/82275.1
+# Lowest/highest calculated points in S0 (extrapolated beyond that): 0.000000822751/82275.1
 # alpha(mu)=0.05
 #
 8.227511974117012e-7	0.0001	0.	-0.4911321958862654
