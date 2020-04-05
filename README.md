@@ -10,8 +10,8 @@ The contained datasets are only a subset of the available data and correspond to
 Data for more decoupling solutions is available upon request.
 
 ## Data and figures in [[1]](#YM)
-Correlation function | Figure | Data file
--------------------- | ------ | ---------
+Correlation function | Figure |Data file
+:--------------------|:-------|:--------
 Ghost                | 9      | ghost.dat
 Gluon 				       | 8  	  | gluon.dat
 Ghost-gluon vertex   | 11     | ghost-gluon2.dat
